@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Diako
 
-<!--
-**Alirezasjshshsh/Alirezasjshshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Front-End Developer** working on **personal projects** to improve my skills and build real-world experience.
 
-Here are some ideas to get you started:
+I enjoy creating **clean, responsive, and user-friendly interfaces**, and I’m constantly learning modern front-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **React**
+
+---
+
+## 📌 What I'm Working On
+- Personal front-end projects
+- Improving UI/UX skills
+- Learning best practices in modern web development
+- Writing cleaner and more maintainable code
+
+---
+
+## 🌱 Currently Learning
+- Advanced React patterns
+- TypeScript in real-world projects
+- Responsive and accessible design
+
+---
+
+## 🚀 Goals
+- Build strong front-end fundamentals
+- Contribute to real projects
+- Grow as a professional front-end developer
+
+---
+
+## 📫 Let's Connect
+Feel free to explore my repositories and follow my journey 🚀
+
